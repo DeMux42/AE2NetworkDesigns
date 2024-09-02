@@ -47,7 +47,3 @@ We have included a separate file for creating custom draw.io shapes specifically
 To learn more and see the existing custom shapes, please refer to the [Draw.io Custom Shapes](./Draw.io%20Custom%20Shapes.md) file.
 
 **We look forward to your contributions and helping build a valuable resource for the AE2 and Minecraft community!**
-
----
-
-Thank you for contributing to the AE2 Network Designs repository!
