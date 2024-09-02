@@ -201,7 +201,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="wplXm7OtqaTojmRZGg2w-138" value="Wireless Transmitter" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-450" y="255" width="120" height="40" as="geometry" />
+          <mxGeometry x="-460" y="215" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="wplXm7OtqaTojmRZGg2w-121" value="" style="shape=stencil(rZZtb4QgDMc/DW8XpOru7eK27+EUJzkHRt3u9u2H9C6R+bBJTYymLfz5UUojg6yv81YywWsGz0yImNuXNS9onm5m3reyGNBXqass0d0PnTnLiyqH23Sla9mpYYzCC+NPdsz4QFYYra2CMrr3IpO4FcuVtnP5FcX4Q4LLfKMdocXE6y9x61nTh+wtL87vnfnU5eLCbT6yzwL38If5khMin4cvA/kKjdIThRNdIvUlIEAiOVwiDpCAwyVCNiLoEiFnWjSml6ujXE3PStN5V+oZssp0cqPQK9U0eF83Vt11Gw6ool3nt5yUe+zPvf0rATigMI3prAO/Do0JAKgqgG3CXQmMeEDh+AmM/BZJr/8QCEGGADoEkCFiOkRMhkjoEAkZIqVDpGSIxz0Qgb3BTZs1TufFHyPn+AE=);whiteSpace=wrap;html=1;strokeWidth=2;rotation=0;" parent="1" vertex="1">
           <mxGeometry x="-310" y="-90" width="80" height="40" as="geometry" />
@@ -528,9 +528,6 @@
         <mxCell id="wplXm7OtqaTojmRZGg2w-130" value="" style="shape=stencil(rZRhD4IgEIZ/DV8bQfm9Wf0PUkwmgRNL+/chp5umuHJsju3eF547boeIxiZnJUcE54ieESEU28WGDYRRHzJT8qQGLRMtT0E2daUL3oi07o8LlfNK1J1LLwif7J7uo3GilbIEoZWZOCPfwphQ9ixuAYZ3R0jzhngPESLXL7hVfHwa31hS3Cv9VOli4pJ1tc+MwX7oFx9VNKkHL9czBUihRoAoNGEL4hAcQTcgSHDElouEJvwESKQ23LvLzfNsLJ3qmWUaZ7riK0OeCSnhra5k/eslBJihv3q/3JTB897NHZs1x6nw43PCBw==);whiteSpace=wrap;html=1;strokeWidth=2;rotation=-180;" parent="1" vertex="1">
           <mxGeometry x="-310" y="-20" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="wplXm7OtqaTojmRZGg2w-91" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-360" y="320" width="520" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="wplXm7OtqaTojmRZGg2w-250" value="&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;Cliffnotes&lt;/span&gt;&lt;/div&gt;&lt;div&gt;I&#39;m DeMux! I&#39;ve beaten a bunch of the FTB Packs, StoneBlocks, ATM8 &amp;amp; 9 (except Greg), SevTech Ages, and more... and now I realize how much more there is to learn about AE2 and ME networks. Here&#39;s my preferred Network architecture. Feel free to send me your feedback!&lt;br&gt;&lt;br&gt;I lean toward a centralized (instead of distributed) architecture, where resources pass through a single point of management, and I can store, filter, and void incoming resources how I see fit.&lt;br&gt;&lt;br&gt;I like knowing what&#39;s going on in my system, but designing it so that it can run without me maintaining it.&amp;nbsp;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;fontSize=10;align=left;arcSize=8;" parent="1" vertex="1">
           <mxGeometry x="-689" y="-310" width="209" height="245" as="geometry" />
         </mxCell>
@@ -539,6 +536,27 @@
             <mxPoint x="275" y="345" as="sourcePoint" />
             <mxPoint x="258" y="295" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="egATbPnZaR944gm5cvCq-3" value="" style="endArrow=oval;html=1;rounded=1;strokeWidth=13;curved=0;strokeColor=#0000FF;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=oval;startFill=1;endFill=1;" edge="1" parent="1" source="egATbPnZaR944gm5cvCq-6" target="egATbPnZaR944gm5cvCq-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-819" y="350" as="sourcePoint" />
+            <mxPoint x="-979" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="egATbPnZaR944gm5cvCq-4" value="Many Many Assemblers!" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-644.5" y="340" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="egATbPnZaR944gm5cvCq-5" value="" style="endArrow=oval;html=1;rounded=1;strokeWidth=13;curved=0;strokeColor=#4C0099;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;startArrow=oval;startFill=1;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="egATbPnZaR944gm5cvCq-6" target="wplXm7OtqaTojmRZGg2w-91">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-919" y="380" as="sourcePoint" />
+            <mxPoint x="-637" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="egATbPnZaR944gm5cvCq-6" value="42-100" style="shape=stencil(rZXRDoIgFIafhtuGnOy+Ub0HKSbLwAmlvX0IumpqS8bm3M7/w3c44EEEVJes5ojgEsEBEQLYvmzY+nA3hEzXPDNeK0THcy9r06grb0VuhulClrwRpnfhiPDejukfoJmS0hKEkvrL+fAtjAlp5+LOw/Am9WmeQ+wjRE7BiGQeAdQqS0sEembZ9dKou8xnE9esL39ijPZNPfh7RQn+v6aRUAn5QUhjE9L1hF1sQkgZ2+gICECQ6IiQQmITAk40CSBkldJ8cZRry0l3OXWhJYEWquE/erUQVeVvrR9ZVzV0hK9w1enNb8roLdbmpk02x6n+F+CEFw==);whiteSpace=wrap;html=1;strokeWidth=2;rotation=-90;" vertex="1" parent="1">
+          <mxGeometry x="-470" y="340" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="wplXm7OtqaTojmRZGg2w-91" value="Controller" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-360" y="320" width="520" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
