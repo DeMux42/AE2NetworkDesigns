@@ -20,6 +20,6 @@ Below is a list of all network diagrams available in this folder. Click on the l
 - **Edit**: 
 - **View**: 
 
-![Next Diagram Name]()
+![Your Diagram Name]()
 
 ---
