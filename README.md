@@ -16,9 +16,9 @@ The community needs your expertise! Follow these steps to contribute your AE2 ne
 
 ### Step 1: Create and Save Your Diagram
 
-1. **Start with the Template**: [Click Here](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FDeMux42%2FAE2NetworkDesigns%2Fmain%2FAE2NetworkDesignExamples%2FTemplate.drawio) to open a new draw.io diagram using the Design Template.
+1. **Start with the Template**: [Click Here](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FDeMux42%2FAE2NetworkDesigns%2Fmain%2FAE2NetworkDesignExamples%2FTemplate-AwesomeMinecrafter%27s%20AE2%20Network.drawio) to open a new draw.io diagram using the Design Template.
 2. **Edit Your Diagram**: Customize the template in draw.io to showcase your preferred AE2 architecture.
-3. **Save Your Work**: After editing, download both the `.drawio` file for future editing and a `.svg` file for viewing.
+3. **Save Your Work**: After editing, download both the `.drawio` file for future editing and a `.svg` file for viewing. Remove "Template-" from the filenames and update your name instead!
 
 ### Step 2: Upload Your Diagram
 
