@@ -10,30 +10,16 @@ Below is a list of all network diagrams available in this folder. Click on the l
 
 ### DeMux's AE2 Network
 
-- **Edit**: [DeMux's AE2 Architecture.drawio](./DeMux%27s%20AE2%20Architecture.drawio)
-- **View**: [DeMux's AE2 Architecture.svg](./DeMux%27s%20AE2%20Architecture.svg)
+- **Edit**: [DeMux's AE2 Architecture.drawio](./DeMux%27s%20AE2%20Network.drawio)
+- **View**: [DeMux's AE2 Architecture.svg](./DeMux%27s%20AE2%20Network.svg)
 
-![DeMux's AE2 Architecture](./DeMux%27s%20AE2%20Architecture.svg)
+![DeMux's AE2 Architecture](./DeMux%27s%20AE2%20Network.svg)
 
-### DeMux's AE2 Network
+### Your Design Goes Here!
 
-- **Edit**: [DeMux's AE2 Architecture.drawio](./DeMux%27s%20AE2%20Architecture.drawio)
-- **View**: [DeMux's AE2 Architecture.svg](./DeMux%27s%20AE2%20Architecture.svg)
+- **Edit**: 
+- **View**: 
 
-![DeMux's AE2 Architecture](./DeMux%27s%20AE2%20Architecture.svg)
-
-### DeMux's AE2 Network
-
-- **Edit**: [DeMux's AE2 Architecture.drawio](./DeMux%27s%20AE2%20Architecture.drawio)
-- **View**: [DeMux's AE2 Architecture.svg](./DeMux%27s%20AE2%20Architecture.svg)
-
-![DeMux's AE2 Architecture](./DeMux%27s%20AE2%20Architecture.svg)
-
-### Your Preferred AE2 Network Design!
-
-- **Edit**: [NextDiagramName.drawio](./NextDiagramName.drawio)
-- **View**: [NextDiagramName.svg](./NextDiagramName.svg)
-
-![Next Diagram Name](./NextDiagramName.svg)
+![Next Diagram Name]()
 
 ---
