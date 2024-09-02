@@ -28,7 +28,7 @@ The community needs your expertise! Here’s how you can contribute:
 ## Using the Template
 
 To maintain consistency across diagrams and ensure all files are easy to understand and edit, we have a standard template format:
-- [Click Here]
+- [Click Here](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FDeMux42%2FAE2NetworkDesigns%2Fmain%2FAE2NetworkDesignExamples%2FTemplate.drawio)
 - **Diagram Files**: Each diagram should have both a `.drawio` file for editing and a `.svg` file for viewing.
 - **README Updates**: Every time you add a new diagram, update the README in the "AE2 Network Designs" folder:
   - List your diagram under a new section, including both a link to the `.drawio` file and an inline render of the `.svg` file.
