@@ -2,6 +2,9 @@
 
 Welcome to the **AE2 Network Designs Repository**! This repository is a community-driven collection of AE2 network diagrams for modded Minecraft players. The aim is to provide a shared space where players can showcase how they like to set up their AE2 networks, learn from others, and improve their own network designs.
 
+**Check out the [AE2 Designs folder](./AE2NetworkDesignExamples/)!** Here you'll find all the contributed AE2 network designs and the template to create your own.
+
+
 ## Objective
 
 The goal of this repository is to:
