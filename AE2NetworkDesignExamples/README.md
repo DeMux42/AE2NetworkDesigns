@@ -15,6 +15,13 @@ Below is a list of all network diagrams available in this folder. Click on the l
 
 ![DeMux's AE2 Architecture](./DeMux%27s%20AE2%20Network%20Design.svg)
 
+### Z810's AE2 Network
+
+- **Edit**: [Z810's AE2 Architecture.drawio](https://app.diagrams.net/#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FZ81042%2FAE2NetworkDesigns%2Fmain%2FAE2NetworkDesignExamples%2FZ810%27s%20AE2%20Network%20Design.drawio)
+- **View**: [Z810's AE2 Architecture.svg](./Z810%27s%20AE2%20Network%20Design.svg)
+
+![Z810's AE2 Architecture](./Z810%27s%20AE2%20Network%20Design.svg)
+
 ### Your Design Goes Here!
 
 - **Edit**: 
